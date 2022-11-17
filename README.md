@@ -1,4 +1,4 @@
-# Ninja Jump
+# Pong
 
 A multiplayer game. This game is a simple clone of the famous game called Pong game.
 
